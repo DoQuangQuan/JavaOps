@@ -1,6 +1,11 @@
 public class App {
+    
     public static void main(String[] args) throws Exception {
-        float a,b,x;
-        System.out.println("nhap vao a" +a);
+        ngay28_HinhTron ht = new ngay28_HinhTron();
+        ht.nhapBanKinh();
+        ht.tinhChuVi();
+        ht.tinhDienTich();
+        ht.inChuVi();
+        ht.inDienTich();
     }
 }
