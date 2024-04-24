@@ -14,7 +14,7 @@ public class Page47 {
                 }
             }
     
-            scanner.close();
+            scanner.close()
         }
     }
     
