@@ -8,7 +8,7 @@ public class Nhan_Vien_Part_Time extends NhanVien {
         chucVu = "Nhan vien parttime!!";
         luong = 30000;
     }
-    public void nhapCong(){
+    public void chamCong(){
         super.nhapthongtin();
         Scanner scanner = new Scanner(System.in);
         System.out.println("So gio lam viec: ");

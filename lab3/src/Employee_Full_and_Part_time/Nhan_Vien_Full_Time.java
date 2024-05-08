@@ -18,4 +18,8 @@ public class Nhan_Vien_Full_Time extends NhanVien {
     public void tinhLuong(){
         luong = soNgayLamViec*luong;
     }
+    public void chamCong() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'chamCong'");
+    }
 }

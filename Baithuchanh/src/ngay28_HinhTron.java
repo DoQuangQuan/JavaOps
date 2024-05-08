@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ngay28_HinhTron {
-   
+
     //cac thhuoc tinh 
      public float R;
      public final float Pi = 3.14f ;
@@ -28,5 +28,5 @@ public class ngay28_HinhTron {
         System.out.println("Dien Tich Hinh Tron La :" + dienTich);
     }
     
-    }
 }
+
