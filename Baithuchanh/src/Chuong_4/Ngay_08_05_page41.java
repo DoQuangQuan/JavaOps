@@ -1,7 +1,7 @@
 package Chuong_4;
 import java.util.LinkedList;
 import java.util.Scanner;
-public class Ngay_08_05_page41 {
+public class Ngay_08_05_Page41 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         LinkedList<String> linkedList = new LinkedList<>();

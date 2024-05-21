@@ -1,6 +1,6 @@
 package Chuong_4;
 import java.util.LinkedList;
-public class Ngay_08_05_page38 {
+public class Ngay_08_05_Page38 {
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<String>();
         list.add("Java");
